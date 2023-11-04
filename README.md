@@ -4,7 +4,8 @@
 
 ##### Guide
 对于nlp任务的中文数据清洗规则：
-chinese data cleaning rules for nlp tasks
+
+chinese data cleaning rules for nlp tasks:
 
     1）过滤数据是英文的数据 -> bool
     filter data with english title
